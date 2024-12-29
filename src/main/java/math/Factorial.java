@@ -8,5 +8,6 @@ public class Factorial {
             factorial *= i;
         }
         return factorial;
+
     }
 }
